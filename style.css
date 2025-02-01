@@ -1,0 +1,13 @@
+.h1cl{
+    color: crimson;
+    font-weight: bolder;
+    font-size: 50;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+}
+
+.h1cl:hover{
+    transform: scale(2);
+    color: black;
+}
